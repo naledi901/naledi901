@@ -1,110 +1,140 @@
-<!-- Header Banner -->
+<!-- ========================= -->
+<!--  GitHub Profile README   -->
+<!-- ========================= -->
+
+<h1 align="center">Hi 👋, I'm Naledi</h1>
+<h3 align="center">Business Analysis Graduate | Data & Systems Analysis | Web-Based Business Solutions</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:000000&height=70&section=header&text=Naledi%20Motaung&fontSize=30&fontColor=ffffff" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-SITE" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:YOUREMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h2 align="center">Business Analyst • Full-Stack Developer • Data Analyst</h2>
+---
 
-<p align="center">
-  <em>I bridge business strategy with technical execution — turning requirements into real solutions.</em>
-</p>
+## 👤 Professional Summary
+
+I am a **Business Analysis graduate** with a strong focus on transforming business problems into  
+**data-driven insights** and **system-based solutions**.
+
+My approach combines:
+- Business analysis fundamentals  
+- Data analytics for decision support  
+- Web-based systems to implement and validate business requirements  
+
+I use **technology as an enabler of business value**, not as an end goal.
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 Core Focus — Business Analysis
 
-I’m a multi-disciplinary professional with a **Diploma in ICT (Business Analysis)**, **Full-Stack Developer certification from FNB**, and **Google’s Data Analytics Professional Certification**.
+My primary expertise is in **Business Analysis**, including:
 
-I specialize in delivering solutions across:
-
-- **Software Development** (HTML, CSS, Java, Python, JS)
-- **Data Analytics & Dashboards**
-- **Business Analysis Documentation & Process Modeling**
-
-I thrive in environments where technology and business meet.
-
----
-
-## 🚀 Featured Projects
-
-### <img src="https://img.icons8.com/color/48/south-africa.png" width="22"/> **SARS Compliance & Tax Engine (FNB App Academy — 2025)**  
-*A privacy-first RegTech engine built to analyse bank-statement behaviour and align it with SARS tax rules. It audits personal cash flow against the 2025/2026 tax tables to prevent "lifestyle audits."*
-
-- **Automated Risk Flagging:** Detects transaction patterns (eWallet, Instant Money, etc.) frequently flagged by SARS AI.  
-- **IT3(b) Data Simulator:** Reconstructs the interest-income view banks submit to SARS.  
-- **Provisional Tax Checker:** Alerts users when non-salary income exceeds the R30,000 threshold.  
-- **Two-Pot Withdrawal Estimator:** Calculates real net cash from retirement withdrawals using marginal tax tables.
-
-**Tech:** Python • Streamlit • Pandas • NumPy • PyTest
-
----
-
-### **📊 Google Data Analytics Capstone Project**
-Complete EDA pipeline with insights, cleaning scripts, visualizations, and stakeholder recommendation slides.
-
----
-
-### **💈 Smart ERP System for Hair Salons (Personal Project)**
-AI-assisted ERP platform with:
-- Booking management  
-- Demand forecasting  
-- Automated business recommendations  
-
----
-
-### **🧭 Business Analysis Documentation Suite**
-Complete set of BA artifacts including:
-- BRD  
-- SRS  
-- User stories  
-- UML diagrams  
-- BPMN flows  
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,sql" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask,git,github" />
-</p>
-
-### **Data Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,vscode" />
-  <img height="40" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img height="40" src="https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=Tableau&logoColor=white" />
-</p>
-
-### **Business Analysis Tools**
-- UML (Draw.io)  
-- BPMN  
-- Jira / Confluence  
 - Requirements elicitation & documentation  
+- Business process analysis & optimisation  
+- Stakeholder analysis and communication  
+- KPI definition & performance measurement  
+- Systems and ERP analysis  
+- Translating business needs into technical solutions  
+
+🔗 **Business Analysis Portfolio**  
+👉 https://YOUR-BA-PORTFOLIO-LINK
 
 ---
 
-## 📌 What I’m Focused on
-- Developing production-level full-stack apps  
-- Building analytical dashboards & running EDA  
-- Improving BA documentation and stakeholder communication  
-- Integrating data + software + business into unified solutions  
+## 📊 Data Analytics (Supporting Skill)
+
+I apply data analytics to **strengthen business insights and decision-making**.
+
+**Tools & Techniques**
+- SQL, Excel, Power BI  
+- KPI dashboards & reporting  
+- Trend and performance analysis  
+- Business insight storytelling  
+
+🔗 **Data Analytics Portfolio**  
+👉 https://YOUR-DATA-PORTFOLIO-LINK
 
 ---
 
-## 📫 Connect with Me
-<p>
-  <a href="YOUR LINKEDIN HERE"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:YOUR EMAIL HERE"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+## 💻 Web-Based Business Solutions (Implementation)
+
+To better implement and validate requirements, I build **web-based systems and prototypes** that support business operations and analytics.
+
+**What I build**
+- Web applications implementing business requirements  
+- Systems supporting workflows, analytics, and reporting  
+- Prototypes to validate solutions with stakeholders  
+
+🔗 **Web & Systems Portfolio**  
+👉 https://YOUR-WEB-PORTFOLIO-LINK
 
 ---
 
-<p align="center">
-  <em>“Great systems come from understanding both the people and the data behind them.”</em>
-</p>
+## 🧠 Key Strengths
+
+- Business-first problem solving  
+- Strong analytical and systems thinking  
+- Ability to bridge business and technical teams  
+- Clear documentation and communication  
+- Data-driven decision support  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Business Analysis**
+- BPMN, UML, Requirements Documentation
+- Stakeholder & Process Analysis
+
+**Data & Analytics**
+- SQL, Excel, Power BI
+- Python (analysis & automation)
+
+**Web & Systems**
+- JavaScript, TypeScript
+- Node.js, Express
+- HTML, CSS
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+
+- **Smart ERP System for Hair Salons**  
+  Business-driven ERP solution with analytics, demand forecasting, and automated recommendations
+
+- **SARS Compliance & Tax Engine**  
+  Rule-based system designed to support compliance and accurate tax calculations
+
+- **Data Analytics Capstone Projects**  
+  End-to-end analysis using SQL, dashboards, and business insights
+
+*(Pinned repositories below ⬇️)*
+
+---
+
+## 📈 What Recruiters Should Know
+
+> I am a **Business Analyst first**,  
+> with strong skills in **data analytics and systems implementation**,  
+> enabling me to deliver **end-to-end, practical business solutions**.
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://YOUR-PORTFOLIO-SITE  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
+- 📧 Email: YOUREMAIL@example.com
+
+---
+
+⭐ *If you're a recruiter or hiring manager, feel free to explore my pinned repositories below.*
