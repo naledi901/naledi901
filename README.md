@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!-- ========================= -->
-
 <h1 align="center">Hi 👋, I'm Naledi</h1>
 <h3 align="center">Business Analysis Graduate | Data & Systems Analysis | Web-Based Business Solutions</h3>
 
@@ -12,129 +8,108 @@
   <a href="https://YOUR-PORTFOLIO-SITE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 👤 Professional Summary
 
-I am a **Business Analysis graduate** with a strong focus on transforming business problems into  
+I am a **Business Analysis graduate** focused on translating business problems into  
 **data-driven insights** and **system-based solutions**.
 
-My approach combines:
-- Business analysis fundamentals  
-- Data analytics for decision support  
-- Web-based systems to implement and validate business requirements  
-
-I use **technology as an enabler of business value**, not as an end goal.
+My work combines **business analysis**, **data analytics**, and **web-based systems** to design and implement solutions that improve decision-making, efficiency, and outcomes.  
+Technology is used **as a tool to deliver business value**.
 
 ---
 
 ## 🎯 Core Focus — Business Analysis
 
-My primary expertise is in **Business Analysis**, including:
+My primary expertise includes:
 
 - Requirements elicitation & documentation  
-- Business process analysis & optimisation  
+- Business process analysis and optimisation  
 - Stakeholder analysis and communication  
 - KPI definition & performance measurement  
-- Systems and ERP analysis  
-- Translating business needs into technical solutions  
+- Systems and solution analysis  
 
 🔗 **Business Analysis Portfolio**  
-👉 https://YOUR-BA-PORTFOLIO-LINK
+👉 *(to be added as you expand)*
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 ATS Optimizer (AI CV Maker) — **Flagship Project**
+🔗 https://github.com/naledi901/ats-optimizer
+
+A **web-based business solution** designed to improve CV quality and ATS match rates by applying **business rules, analytics, and AI-driven optimisation**.
+
+**Business Value**
+- Addresses CV rejection due to ATS filtering  
+- Automates CV optimisation and standardisation  
+- Reduces time spent tailoring applications  
+
+**Business Analysis Aspects**
+- Problem definition & stakeholder analysis (job seekers, recruiters)  
+- Business rules & optimisation logic  
+- System workflow design  
+- Metrics-driven improvement approach  
+
+**Tech Used**
+- TypeScript, Node.js  
+- Web-based architecture  
+- AI-assisted text optimisation  
+
+---
+
+### 🔹 South African Retail Sales Analysis
+🔗 *(add repo link here if not yet public)*
+
+A **data analytics project** analysing retail sales trends in South Africa to support **business decision-making and performance analysis**.
+
+**Focus Areas**
+- Sales performance trends  
+- KPI analysis  
+- Business insight generation  
+- Data-driven recommendations  
+
+**Tools**
+- SQL / Excel / Power BI *(adjust to match your actual tools)*
 
 ---
 
 ## 📊 Data Analytics (Supporting Skill)
 
-I apply data analytics to **strengthen business insights and decision-making**.
+I use data analytics to support **business insight generation and performance measurement**, including:
 
-**Tools & Techniques**
-- SQL, Excel, Power BI  
 - KPI dashboards & reporting  
 - Trend and performance analysis  
-- Business insight storytelling  
-
-🔗 **Data Analytics Portfolio**  
-👉 https://YOUR-DATA-PORTFOLIO-LINK
+- Data-driven recommendations  
 
 ---
 
-## 💻 Web-Based Business Solutions (Implementation)
+## 💻 Web-Based Business Solutions
 
-To better implement and validate requirements, I build **web-based systems and prototypes** that support business operations and analytics.
-
-**What I build**
-- Web applications implementing business requirements  
-- Systems supporting workflows, analytics, and reporting  
-- Prototypes to validate solutions with stakeholders  
-
-🔗 **Web & Systems Portfolio**  
-👉 https://YOUR-WEB-PORTFOLIO-LINK
+I design and build **web-based systems** to implement and validate business requirements, bridging the gap between **analysis and execution**.
 
 ---
 
 ## 🧠 Key Strengths
 
 - Business-first problem solving  
-- Strong analytical and systems thinking  
+- Analytical and systems thinking  
 - Ability to bridge business and technical teams  
 - Clear documentation and communication  
-- Data-driven decision support  
+- Practical, solution-oriented mindset  
 
 ---
 
-## 🛠️ Tools & Technologies
-
-**Business Analysis**
-- BPMN, UML, Requirements Documentation
-- Stakeholder & Process Analysis
-
-**Data & Analytics**
-- SQL, Excel, Power BI
-- Python (analysis & automation)
-
-**Web & Systems**
-- JavaScript, TypeScript
-- Node.js, Express
-- HTML, CSS
-- REST APIs
-
----
-
-## 📌 Featured Projects
-
-- **Smart ERP System for Hair Salons**  
-  Business-driven ERP solution with analytics, demand forecasting, and automated recommendations
-
-- **SARS Compliance & Tax Engine**  
-  Rule-based system designed to support compliance and accurate tax calculations
-
-- **Data Analytics Capstone Projects**  
-  End-to-end analysis using SQL, dashboards, and business insights
-
-*(Pinned repositories below ⬇️)*
-
----
-
-## 📈 What Recruiters Should Know
+## 📌 What Recruiters Should Know
 
 > I am a **Business Analyst first**,  
 > with strong skills in **data analytics and systems implementation**,  
-> enabling me to deliver **end-to-end, practical business solutions**.
+> enabling me to deliver **end-to-end business solutions**.
 
 ---
 
-## 📫 Contact
-
-- 🌐 Portfolio: https://YOUR-PORTFOLIO-SITE  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-- 📧 Email: YOUREMAIL@example.com
-
----
-
-⭐ *If you're a recruiter or hiring manager, feel free to explore my pinned repositories below.*
+⭐ *Pinned repositories below showcase my strongest work.*
