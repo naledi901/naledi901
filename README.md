@@ -32,8 +32,7 @@ My primary expertise includes:
 - KPI definition & performance measurement  
 - Systems and solution analysis  
 
-🔗 **Business Analysis Portfolio**  
-👉 *(to be added as you expand)*
+
 
 ---
 
