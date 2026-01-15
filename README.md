@@ -63,7 +63,7 @@ A **web-based business solution** designed to improve CV quality and ATS match r
 ---
 
 ### 🔹 South African Retail Sales Analysis
-🔗 *(add repo link here if not yet public)*
+🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2014
 
 A **data analytics project** analysing retail sales trends in South Africa to support **business decision-making and performance analysis**.
 
