@@ -73,7 +73,7 @@ A web-based system designed to improve CV quality and ATS match performance usin
 ---
 
 ### 🔹 Job Market Intelligence Dashboard  
-*(Add GitHub link if available)*  
+🔗 
 
 A frontend dashboard analysing job trends, skill demand, and market insights to support data-driven career decisions.
 
@@ -86,7 +86,7 @@ A frontend dashboard analysing job trends, skill demand, and market insights to 
 ---
 
 ### 🔹 South African Retail Sales Analysis  
-🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2014  
+🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2024  
 
 A data analytics project evaluating retail sales performance to support strategic business decisions.
 
