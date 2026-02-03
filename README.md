@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naledi Motaung</h1>
-<h3 align="center">Frontend Developer | React & TypeScript | Data-Driven Web Applications</h3>
+<h3 align="center">Business Analysis Graduate | Frontend Developer | Data-Driven Systems Builder</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
@@ -12,69 +12,113 @@
 
 ---
 
-## 👤 About Me
+## 👤 Professional Profile
 
-I build **modern, performant, and data-driven web applications** using React and TypeScript.  
-My work focuses on transforming complex data and business problems into **clear, intuitive user interfaces**.
+I am a **Business Analysis graduate** with hands-on experience building **web-based systems and data-driven dashboards**.
 
-I enjoy building systems where **data, intelligence, and UX intersect** — especially dashboards, analytics tools, and AI-powered applications.
+I specialise in translating business requirements into structured solutions — and where necessary, implementing those solutions through modern frontend technologies.
+
+My strength lies in combining:
+
+- 🔎 Business analysis & requirements thinking  
+- 📊 Data analytics & KPI measurement  
+- 💻 Frontend development & system implementation  
+
+Technology is not the goal — it is a tool to deliver measurable business value.
 
 ---
 
-## 🚀 What I’m Focused On
+## 🎯 Core Competencies
 
-- Frontend Architecture with React + TypeScript  
-- Data Visualization & Interactive Dashboards  
-- Real-time Interfaces & API Integration  
-- Performance & Accessibility  
-- Building intelligent web-based systems  
+### 🧠 Business Analysis
+- Requirements elicitation & documentation  
+- Business process analysis & optimisation  
+- Stakeholder analysis & communication  
+- KPI definition & performance measurement  
+- System workflow design  
+
+### 💻 Frontend Development
+- React / TypeScript / JavaScript  
+- Responsive UI development  
+- Dashboard & data visualisation interfaces  
+- API integration  
+- Component-based architecture  
+
+### 📊 Data & Reporting
+- KPI dashboards  
+- Trend analysis  
+- SQL / Excel / Power BI  
+- Data-driven insights & recommendations  
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 Job Market Intelligence Dashboard
-🔗 https://job-intelligence-tau.vercel.app
+### 🔹 ATS Optimizer — AI-Powered CV Optimization Platform  
+🔗 https://github.com/naledi901/ats-optimizer  
 
-A real-time analytics dashboard visualizing South African tech job trends.
+A web-based system designed to improve CV quality and ATS match performance using structured business rules and AI-assisted optimisation.
 
-**Highlights**
-- Interactive data filtering by location, industry & experience level  
-- Dynamic charts for skill demand and salary distribution  
-- Component-based architecture (HeroChart, InsightCards, FilterBar)  
-- Built with React 18, TypeScript, Vite & Tailwind  
-- Deployed on Vercel  
+**Business Analysis Focus**
+- Problem definition & stakeholder analysis  
+- CV optimisation logic & rule design  
+- End-to-end system workflow mapping  
+- Performance-based improvement approach  
 
----
-
-### 🔹 ATS Optimizer (AI CV Builder)
-🔗 https://github.com/naledi901/ats-optimizer
-
-A full-stack web application that helps job seekers generate ATS-compliant CVs using AI.
-
-**Highlights**
-- AI-powered text optimisation  
-- Authentication & database integration  
-- PDF generation & structured CV formatting  
-- Built with TypeScript, Node.js & modern web architecture  
+**Technical Implementation**
+- TypeScript / Node.js  
+- Web-based architecture  
+- AI integration for text optimisation  
 
 ---
 
-## 🛠 Tech Stack
+### 🔹 Job Market Intelligence Dashboard  
+*(Add GitHub link if available)*  
 
-- React  
-- TypeScript  
-- Vite  
-- Node.js  
-- Firebase  
-- REST APIs  
-- Data Visualization  
+A frontend dashboard analysing job trends, skill demand, and market insights to support data-driven career decisions.
+
+**Focus Areas**
+- KPI visualisation  
+- Trend analysis  
+- Business insight communication  
+- Interactive frontend reporting  
 
 ---
 
-## 📌 What Recruiters Should Know
+### 🔹 South African Retail Sales Analysis  
+🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2014  
 
-I combine **strong frontend engineering skills** with analytical thinking to build  
-intelligent, scalable, and user-focused web applications.
+A data analytics project evaluating retail sales performance to support strategic business decisions.
 
-⭐ Pinned repositories below showcase my strongest work.
+**Tools**
+- SQL / Excel / Power BI  
+
+---
+
+## 🧩 What Makes Me Different
+
+I don’t just analyse requirements.  
+I can prototype and implement solutions.
+
+I don’t just build interfaces.  
+I understand the business logic and metrics behind them.
+
+This allows me to bridge the gap between:
+- Business stakeholders  
+- Technical teams  
+- Data-driven decision making  
+
+---
+
+## 📌 Career Focus
+
+I am currently pursuing opportunities in:
+
+- Business Analysis  
+- Junior Frontend Development  
+- Systems / Technical Analyst roles  
+- Data-informed product environments  
+
+---
+
+⭐ *Pinned repositories below showcase both analytical and technical capabilities.*
