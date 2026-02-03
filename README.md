@@ -73,7 +73,7 @@ A web-based system designed to improve CV quality and ATS match performance usin
 ---
 
 ### 🔹 Job Market Intelligence Dashboard  
-🔗 
+🔗 https://github.com/naledi901/job-market-intelligence
 
 A frontend dashboard analysing job trends, skill demand, and market insights to support data-driven career decisions.
 
