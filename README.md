@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naledi Motaung</h1>
 <h3 align="center">Business Analysis Graduate | Frontend Developer | Data-Driven Systems Builder</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-SITE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
