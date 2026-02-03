@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naledi</h1>
-<h3 align="center">Business Analysis Graduate | Data & Systems Analysis | Web-Based Business Solutions</h3>
+<h1 align="center">Hi 👋, I'm Naledi Motaung</h1>
+<h3 align="center">Frontend Developer | React & TypeScript | Data-Driven Web Applications</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
@@ -12,103 +12,69 @@
 
 ---
 
-## 👤 Professional Summary
+## 👤 About Me
 
-I am a **Business Analysis graduate** focused on translating business problems into  
-**data-driven insights** and **system-based solutions**.
+I build **modern, performant, and data-driven web applications** using React and TypeScript.  
+My work focuses on transforming complex data and business problems into **clear, intuitive user interfaces**.
 
-My work combines **business analysis**, **data analytics**, and **web-based systems** to design and implement solutions that improve decision-making, efficiency, and outcomes.  
-Technology is used **as a tool to deliver business value**.
+I enjoy building systems where **data, intelligence, and UX intersect** — especially dashboards, analytics tools, and AI-powered applications.
 
 ---
 
-## 🎯 Core Focus — Business Analysis
+## 🚀 What I’m Focused On
 
-My primary expertise includes:
-
-- Requirements elicitation & documentation  
-- Business process analysis and optimisation  
-- Stakeholder analysis and communication  
-- KPI definition & performance measurement  
-- Systems and solution analysis  
-
-
+- Frontend Architecture with React + TypeScript  
+- Data Visualization & Interactive Dashboards  
+- Real-time Interfaces & API Integration  
+- Performance & Accessibility  
+- Building intelligent web-based systems  
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 ATS Optimizer (AI CV Maker) — **Flagship Project**
+### 🔹 Job Market Intelligence Dashboard
+🔗 https://job-intelligence-tau.vercel.app
+
+A real-time analytics dashboard visualizing South African tech job trends.
+
+**Highlights**
+- Interactive data filtering by location, industry & experience level  
+- Dynamic charts for skill demand and salary distribution  
+- Component-based architecture (HeroChart, InsightCards, FilterBar)  
+- Built with React 18, TypeScript, Vite & Tailwind  
+- Deployed on Vercel  
+
+---
+
+### 🔹 ATS Optimizer (AI CV Builder)
 🔗 https://github.com/naledi901/ats-optimizer
 
-A **web-based business solution** designed to improve CV quality and ATS match rates by applying **business rules, analytics, and AI-driven optimisation**.
+A full-stack web application that helps job seekers generate ATS-compliant CVs using AI.
 
-**Business Value**
-- Addresses CV rejection due to ATS filtering  
-- Automates CV optimisation and standardisation  
-- Reduces time spent tailoring applications  
-
-**Business Analysis Aspects**
-- Problem definition & stakeholder analysis (job seekers, recruiters)  
-- Business rules & optimisation logic  
-- System workflow design  
-- Metrics-driven improvement approach  
-
-**Tech Used**
-- TypeScript, Node.js  
-- Web-based architecture  
-- AI-assisted text optimisation  
+**Highlights**
+- AI-powered text optimisation  
+- Authentication & database integration  
+- PDF generation & structured CV formatting  
+- Built with TypeScript, Node.js & modern web architecture  
 
 ---
 
-### 🔹 South African Retail Sales Analysis
-🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2014
+## 🛠 Tech Stack
 
-A **data analytics project** analysing retail sales trends in South Africa to support **business decision-making and performance analysis**.
-
-**Focus Areas**
-- Sales performance trends  
-- KPI analysis  
-- Business insight generation  
-- Data-driven recommendations  
-
-**Tools**
-- SQL / Excel / Power BI *(adjust to match your actual tools)*
-
----
-
-## 📊 Data Analytics (Supporting Skill)
-
-I use data analytics to support **business insight generation and performance measurement**, including:
-
-- KPI dashboards & reporting  
-- Trend and performance analysis  
-- Data-driven recommendations  
-
----
-
-## 💻 Web-Based Business Solutions
-
-I design and build **web-based systems** to implement and validate business requirements, bridging the gap between **analysis and execution**.
-
----
-
-## 🧠 Key Strengths
-
-- Business-first problem solving  
-- Analytical and systems thinking  
-- Ability to bridge business and technical teams  
-- Clear documentation and communication  
-- Practical, solution-oriented mindset  
+- React  
+- TypeScript  
+- Vite  
+- Node.js  
+- Firebase  
+- REST APIs  
+- Data Visualization  
 
 ---
 
 ## 📌 What Recruiters Should Know
 
-> I am a **Business Analyst first**,  
-> with strong skills in **data analytics and systems implementation**,  
-> enabling me to deliver **end-to-end business solutions**.
+I combine **strong frontend engineering skills** with analytical thinking to build  
+intelligent, scalable, and user-focused web applications.
 
----
-
-⭐ *Pinned repositories below showcase my strongest work.*
+⭐ Pinned repositories below showcase my strongest work.
