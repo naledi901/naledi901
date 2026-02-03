@@ -86,7 +86,7 @@ A frontend dashboard analysing job trends, skill demand, and market insights to 
 ---
 
 ### 🔹 South African Retail Sales Analysis  
-🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis-2008-2024  
+🔗 https://github.com/naledi901/South-African-Retail-Sales-Analysis 
 
 A data analytics project evaluating retail sales performance to support strategic business decisions.
 
